@@ -5,9 +5,11 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 
 This mod does the following:
 
-- Adds in even more liquids based on vanilla ores:
-   - Liquid Durasteel, ID 102
-   - Liquid Aegisalt, ID 103
-   - Liquid Ferozium, ID 104
-   - Liquid Violium, ID 105
-   - Liquid Solarium, ID 106
+- Adds in 5 more liquids based on vanilla ores that [mORE Liquids](https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314) did not include:
+    | Liquid           | Liquid ID |
+    | ---------------- | --------- |
+    | Liquid Durasteel | 102       |
+    | Liquid Aegisalt  | 103       |
+    | Liquid Ferozium  | 104       |
+    | Liquid Violium   | 105       |
+    | Liquid Solarium  | 106       |
