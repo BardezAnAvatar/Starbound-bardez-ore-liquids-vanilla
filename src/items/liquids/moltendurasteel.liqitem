@@ -1,10 +1,10 @@
 {
-  "itemName" : "liquid-durasteel",
+  "itemName" : "moltendurasteel",
   "rarity" : "Uncommon",
   "category" : "liquid",
-  "inventoryIcon" : "liquid-durasteel.png",
+  "inventoryIcon" : "moltendurasteel.png",
   "shortdescription" : "Liquid Durasteel",
   "description" : "A measure of molten durasteel. Melts at 1846 K (1573) under standard pressure. Alloy of various metals that form under radiation and provides high durability.",
-  "liquid" : "liquid-durasteel",
+  "liquid" : "liquiddurasteel",
   "price" : 30
 }
