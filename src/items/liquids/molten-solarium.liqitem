@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-solarium",
+  "rarity" : "Rare",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-solarium.png",
+  "shortdescription" : "Liquid Solarium",
+  "description" : "A measure of molten solarium. Melts naturally at 4096 K (3823 C) under standard pressure.",
+  "liquid" : "liquid-solarium",
+  "price" : 180
+}
