@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-violium",
+  "rarity" : "Rare",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-violium.png",
+  "shortdescription" : "Liquid Violium",
+  "description" : "A measure of molten violium. Melts naturally at 2012 K (1739 C) under standard pressure.",
+  "liquid" : "liquid-violium",
+  "price" : 180
+}

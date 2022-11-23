@@ -9,5 +9,5 @@ This mod does the following:
    - Liquid Durasteel, ID 102
    - Liquid Aegisalt, ID 103
    - Liquid Ferozium, ID 104
-   - Liquid Violoum, ID 105
+   - Liquid Violium, ID 105
    - Liquid Solarium, ID 106
