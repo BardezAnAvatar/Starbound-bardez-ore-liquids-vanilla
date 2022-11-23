@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-aegisalt",
+  "rarity" : "Uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-aegisalt.png",
+  "shortdescription" : "Liquid Aegisalt",
+  "description" : "A measure of molten aegisalt. Melts at 1549 K (1276 C) under standard pressure. Technically a salt, this robust material forms under conditions common among older, cooler stars.",
+  "liquid" : "liquid-aegisalt",
+  "price" : 180
+}
