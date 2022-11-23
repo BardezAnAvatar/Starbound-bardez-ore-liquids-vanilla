@@ -5,7 +5,7 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 
 This mod does the following:
 
-- Adds in even more liquids based on vanilla ores:
+- Adds in 5 more liquids based on vanilla ores that [mORE Liquids](https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314) did not include:
     | Liquid           | Liquid ID |
     | ---------------- | --------- |
     | Liquid Durasteel | 102       |
