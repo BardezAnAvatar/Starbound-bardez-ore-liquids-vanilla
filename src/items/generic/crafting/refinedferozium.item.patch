@@ -4,6 +4,6 @@
     { "op": "add", "path": "/learnBlueprintsOnPickup", "value": [] }
   ],
   [
-    { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "molten-ferozium" },
+    { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "molten-ferozium" }
   ]
 ]

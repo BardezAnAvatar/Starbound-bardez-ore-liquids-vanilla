@@ -4,6 +4,6 @@
     { "op": "add", "path": "/learnBlueprintsOnPickup", "value": [] }
   ],
   [
-    { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "molten-aegisalt" },
+    { "op" : "add", "path" : "/learnBlueprintsOnPickup/-", "value" : "molten-aegisalt" }
   ]
 ]
