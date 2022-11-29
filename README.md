@@ -11,7 +11,7 @@ This mod does the following:
     | Liquid Durasteel | 33        |
     | Liquid Aegisalt  | 35        |
     | Liquid Ferozium  | 37        |
-    | Liquid Violium   | 105       |
+    | Liquid Violium   | 38        |
     | Liquid Solarium  | 106       |
 
 See [Starbounder Wiki](https://starbounder.org/Modding:Liquids:Mods) for liquid ID data
