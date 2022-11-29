@@ -8,7 +8,7 @@ This mod does the following:
 - Adds in 5 more liquids based on vanilla ores that [mORE Liquids](https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314) did not include:
     | Liquid           | Liquid ID |
     | ---------------- | --------- |
-    | Liquid Durasteel | 102       |
+    | Liquid Durasteel | 33        |
     | Liquid Aegisalt  | 103       |
     | Liquid Ferozium  | 104       |
     | Liquid Violium   | 105       |
