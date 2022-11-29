@@ -13,3 +13,5 @@ This mod does the following:
     | Liquid Ferozium  | 37        |
     | Liquid Violium   | 105       |
     | Liquid Solarium  | 106       |
+
+See [Starbounder Wiki](https://starbounder.org/Modding:Liquids:Mods) for liquid ID data
