@@ -10,6 +10,6 @@ This mod does the following:
     | ---------------- | --------- |
     | Liquid Durasteel | 33        |
     | Liquid Aegisalt  | 35        |
-    | Liquid Ferozium  | 104       |
+    | Liquid Ferozium  | 37        |
     | Liquid Violium   | 105       |
     | Liquid Solarium  | 106       |
