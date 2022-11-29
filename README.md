@@ -12,6 +12,6 @@ This mod does the following:
     | Liquid Aegisalt  | 35        |
     | Liquid Ferozium  | 37        |
     | Liquid Violium   | 38        |
-    | Liquid Solarium  | 106       |
+    | Liquid Solarium  | 39        |
 
 See [Starbounder Wiki](https://starbounder.org/Modding:Liquids:Mods) for liquid ID data
