@@ -1,10 +1,10 @@
 {
   "author" : "Bardez",
-  "description" : "This mod does the following:\n[list]\n  [*]Adds in 5 more liquids based on vanilla ores (which [url=https://steamcommunity.com/workshop/filedetails/?id=1318339314]mORE Liquids[/url] did not include):\n    [table]\n      [tr]\n        [th]Liquid[/th]\n        [th]Liquid ID[/th]\n      [/tr]\n      [tr]\n          [td]Liquid Durasteel[/td]\n          [td]102[/td]\n      [/tr]\n      [tr]\n          [td]Liquid Aegisalt[/td]\n          [td]103[/td]\n      [/tr]\n      [tr]\n          [td]Liquid Ferozium[/td]\n          [td]104[/td]\n      [/tr]\n      [tr]\n          [td]Liquid Violium[/td]\n          [td]105[/td]\n      [/tr]\n      [tr]\n          [td]Liquid Solarium[/td]\n          [td]106[/td]\n      [/tr]\n    [/table]\n[/list]\n\n\n\nBoring Stuff:\n[url=https://github.com/BardezAnAvatar/Starbound-bardez-ore-liquids-vanilla]Source on GitHub[/url]\n\n[b]Attributions[/b]:\n[list]\n  [*]Inspired by [url=https://steamcommunity.com/workshop/filedetails/?id=1318339314]mORE Liquids[/url] which for some reason left out the bigger, rarer ores. This mod feels like a spiritual successor to it.\n[/list]",
+  "description" : "This mod does the following:\n[list]\n  [*]Adds in 5 more liquids based on vanilla ores (which [url=https://steamcommunity.com/workshop/filedetails/?id=1318339314]mORE Liquids[/url] did not include):\n    [table]\n      [tr]\n        [th]Liquid[/th]\n        [th]Liquid ID[/th]\n      [/tr]\n      [tr]\n          [td]Liquid Durasteel[/td]\n          [td]33[/td]\n      [/tr]\n      [tr]\n          [td]Liquid Aegisalt[/td]\n          [td]35[/td]\n      [/tr]\n      [tr]\n          [td]Liquid Ferozium[/td]\n          [td]37[/td]\n      [/tr]\n      [tr]\n          [td]Liquid Violium[/td]\n          [td]38[/td]\n      [/tr]\n      [tr]\n          [td]Liquid Solarium[/td]\n          [td]39[/td]\n      [/tr]\n    [/table]\n[/list]\n\n\n\nBoring Stuff:\n[url=https://github.com/BardezAnAvatar/Starbound-bardez-ore-liquids-vanilla]Source on GitHub[/url]\n\n[b]Attributions[/b]:\n[list]\n  [*]Inspired by [url=https://steamcommunity.com/workshop/filedetails/?id=1318339314]mORE Liquids[/url] which for some reason left out the bigger, rarer ores. This mod feels like a spiritual successor to it.\n[/list]",
   "friendlyName" : "Vanilla mORE liquids",
   "link" : "steam://url/CommunityFilePage/2892477151",
   "name" : "vanilla_mORE_liquids",
   "steamContentId" : "2892477151",
   "tags" : "Crafting and Building|Miscellaneous",
-  "version" : "1.1.2"
+  "version" : "2.0.0"
 }
