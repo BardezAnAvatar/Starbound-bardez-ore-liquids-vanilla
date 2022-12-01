@@ -4,5 +4,5 @@
   ],
   "output" : { "item" : "molten-solarium", "count" : 1 },
   "duration" : 0.25,
-  "groups" : [ "craftingfurnace3", "bars", "all" ]
+  "groups" : [ "craftingfurnace3", "smelt" ]
 }
