@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "durasteelbar", "count" : 3 }
-  ],
-  "output" : { "item" : "molten-durasteel", "count" : 1 },
-  "duration" : 0.25,
-  "groups" : [ "craftingfurnace3", "bars", "all" ]
-}

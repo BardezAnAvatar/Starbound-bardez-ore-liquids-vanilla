@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "molten-solarium", "count" : 4 }
+  ],
+  "output" : { "item" : "solariumstar", "count" : 1 },
+  "duration" : 0.15,
+  "groups" : [ "craftingfurnace3", "coalesce" ]
+}
