@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "molten-solarium", "count" : 10 }
+    { "item" : "molten-solarium", "count" : 4 }
   ],
   "output" : { "item" : "solariumstar", "count" : 1 },
   "duration" : 0.15,
