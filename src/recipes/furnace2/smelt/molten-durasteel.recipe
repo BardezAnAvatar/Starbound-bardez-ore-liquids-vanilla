@@ -4,5 +4,5 @@
   ],
   "output" : { "item" : "molten-durasteel", "count" : 4 },
   "duration" : 0.25,
-  "groups" : [ "craftingfurnace2", "bars"]
+  "groups" : [ "craftingfurnace2", "smelt"]
 }
