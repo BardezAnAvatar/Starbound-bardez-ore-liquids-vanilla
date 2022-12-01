@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "refinedaegisalt", "count" : 3 }
+    { "item" : "refinedaegisalt", "count" : 1 }
   ],
-  "output" : { "item" : "molten-aegisalt", "count" : 1 },
+  "output" : { "item" : "molten-aegisalt", "count" : 4 },
   "duration" : 0.25,
   "groups" : [ "craftingfurnace3", "smelt" ]
 }

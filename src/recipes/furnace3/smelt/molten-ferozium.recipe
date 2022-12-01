@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "refinedferozium", "count" : 3 }
+    { "item" : "refinedferozium", "count" : 1 }
   ],
-  "output" : { "item" : "molten-ferozium", "count" : 1 },
+  "output" : { "item" : "molten-ferozium", "count" : 4 },
   "duration" : 0.25,
   "groups" : [ "craftingfurnace3", "smelt" ]
 }
