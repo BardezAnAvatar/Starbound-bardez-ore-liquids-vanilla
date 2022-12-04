@@ -16,5 +16,6 @@ This mod does the following:
     | Liquid Solarium  | 39        |
 - Adds in recipes to smelt the liquids from bars
 - Adds in recipes to coalesce the liquids back into bars
+- NOTE: Prevents un-crafting due to above two features
 
 See [Starbounder Wiki](https://starbounder.org/Modding:Liquids:Mods) for liquid ID data
