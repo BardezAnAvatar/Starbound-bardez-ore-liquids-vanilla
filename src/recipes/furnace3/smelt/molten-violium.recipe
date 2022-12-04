@@ -4,5 +4,8 @@
   ],
   "output" : { "item" : "molten-violium", "count" : 4 },
   "duration" : 0.25,
-  "groups" : [ "craftingfurnace3", "smelt" ]
+  "groups" : [
+    "craftingfurnace3", "smelt",
+    "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
+  ]
 }

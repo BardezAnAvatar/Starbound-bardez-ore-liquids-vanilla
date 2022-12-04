@@ -4,5 +4,8 @@
   ],
   "output" : { "item" : "durasteelbar", "count" : 1 },
   "duration" : 0.125,
-  "groups" : [ "craftingfurnace2", "coalesce" ]
+  "groups" : [
+    "craftingfurnace2", "coalesce",
+    "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
+  ]
 }

@@ -4,5 +4,8 @@
   ],
   "output" : { "item" : "molten-durasteel", "count" : 4 },
   "duration" : 0.25,
-  "groups" : [ "craftingfurnace2", "smelt"]
+  "groups" : [
+    "craftingfurnace2", "smelt",
+    "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
+  ]
 }
